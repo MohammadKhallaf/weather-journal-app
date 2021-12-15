@@ -45,20 +45,6 @@ input {
   height: 1.5rem;
   margin: auto;
 }
-a {
-  box-sizing: content-box;
-  display: block;
-  background: rgb(75, 75, 75);
-  color: aliceblue;
-  border-radius: 15px;
-  font-weight: bold;
-  padding: 15px;
-  text-decoration: none;
-}
-
-a:hover {
-  background: rgb(153, 153, 153);
-}
 
 br {
   line-height: 2rem;
