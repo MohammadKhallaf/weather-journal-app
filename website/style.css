@@ -1,0 +1,65 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+}
+html {
+  background-color: white;
+}
+body {
+  width: 50%;
+  margin: auto;
+  border: dimgrey 1px solid;
+  border-radius: 5px;
+  box-shadow: 4px 4px 10px dimgrey;
+  padding: 50px;
+  margin-top: 1rem;
+  background-color: rgb(245, 245, 245);
+  position: relative;
+}
+
+/*<===general for all ===> */
+h1,
+h3 {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+p {
+  padding: 15px;
+  /* border: 2px solid rgb(180, 0, 0);
+    border-radius: 15px; */
+  font-style: italic;
+  color: dimgrey;
+  font-size: 16px;
+}
+
+button {
+  padding: 5px;
+  margin: 5px;
+  /* background-color: ; */
+}
+
+input {
+  width: 70%;
+  height: 1.5rem;
+  margin: auto;
+}
+a {
+  box-sizing: content-box;
+  display: block;
+  background: rgb(75, 75, 75);
+  color: aliceblue;
+  border-radius: 15px;
+  font-weight: bold;
+  padding: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  background: rgb(153, 153, 153);
+}
+
+br {
+  line-height: 2rem;
+}
